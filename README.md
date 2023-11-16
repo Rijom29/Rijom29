@@ -6,7 +6,7 @@
 
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://linkedin.com/in/rakibul-islam-rijom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/rakibul-islam-rijom-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://instagram.com/rijom_" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
 
