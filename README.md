@@ -1,27 +1,23 @@
-<div style="text-align: center;">
-  <h1 style="font-family: 'Raleway', sans-serif; font-size: 40px; color: #0069ff;">Hi there! 👋, I'm Rakibul Islam Rijom</h1>
-  <h3 style="font-family: 'Open Sans', sans-serif; font-size: 20px; color: #222;">A recent graduate with a Bachelor's degree in Computer Science and Engineering from American International University-Bangladesh. Passionate about coding, problem-solving, and leveraging technology to create meaningful solutions.</h3>
+<div align="center">
+  <h1>Hi there! 👋, I'm Rakibul Islam Rijom</h1>
+  <p>A recent graduate with a Bachelor's degree in Computer Science and Engineering from American International University-Bangladesh. Passionate about coding, problem-solving, and leveraging technology to create meaningful solutions.</p>
 
-  <p style="font-family: 'Open Sans', sans-serif; font-size: 16px; color: #666;"><i class="fas fa-envelope"></i> How to reach me: <b>hello.rijom@outlook.com</b></p>
+  <p>📫 How to reach me: <strong>hello.rijom@outlook.com</strong></p>
 
-  <h3 style="font-family: 'Raleway', sans-serif; font-size: 20px; color: #0069ff;">Connect with me:</h3>
-  <p style="font-family: 'Open Sans', sans-serif; font-size: 16px; color: #666;">
-    <a href="https://linkedin.com/in/rakibul-islam-rijom" target="_blank" style="margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-    </a>
-    <a href="https://instagram.com/rijom_" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
-    </a>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://linkedin.com/in/rakibul-islam-rijom" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://instagram.com/rijom_" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
 
-  <h3 style="font-family: 'Raleway', sans-serif; font-size: 20px; color: #0069ff;">Languages and Tools:</h3>
-  <p style="font-family: 'Open Sans', sans-serif; font-size: 16px; color: #666;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="32" height="32"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+  <h3>Languages and Tools:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </p>
 </div>
